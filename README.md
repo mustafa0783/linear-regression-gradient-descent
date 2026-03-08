@@ -1,4 +1,4 @@
-# Linear Regression with Gradient Descent (MATLAB)
+<img width="1469" height="1068" alt="Figure_2 (1)" src="https://github.com/user-attachments/assets/afb2e34b-3e62-4a18-b78a-892ba9c17dfc" /># Linear Regression with Gradient Descent (MATLAB)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Numerical%20Computing-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue)
@@ -97,13 +97,15 @@ All approaches converge close to the true values.
 
 # Learning Curves (MSE vs Iterations)
 
-![Learning Curves](outputs/learning_curves.png)
+<img width="501" height="531" alt="MSE vs Iterations" src="https://github.com/user-attachments/assets/f49a0da8-eb5a-45e8-9b49-ce5d27ff79c1" />
+
 
 ---
 
 # Gradient Approximation Error
 
-![Gradient Error](outputs/gradient_error.png)
+<img width="495" height="532" alt="Gradient Approximation Error" src="https://github.com/user-attachments/assets/a83e8237-6f18-4555-9387-465aaa38821e" />
+
 
 ---
 
@@ -141,31 +143,35 @@ $146,406 – $1,107,045
 
 # Training Data with Regression Fit
 
-![Training Fit](outputs/training_fit.png)
+<img width="492" height="517" alt="Training Data with Regression Fit" src="https://github.com/user-attachments/assets/71b4bef4-93a9-415c-a51c-6c43819dafaa" />
 
 ---
 
 # Predicted vs Actual Prices
 
-![Prediction vs Actual](outputs/prediction_vs_actual.png)
+
+<img width="523" height="519" alt="Figure_2" src="https://github.com/user-attachments/assets/31187745-e709-4571-bd36-a743baa506d8" />
 
 ---
 
 # Residual Analysis
 
-![Residual Plot](outputs/residual_plot.png)
+
+<img width="476" height="538" alt="Residual Analysis" src="https://github.com/user-attachments/assets/479203d5-928a-4558-8914-36de37064214" />
 
 ---
 
 # Parameter Convergence
 
-![Parameter Convergence](outputs/parameter_convergence.png)
+<img width="548" height="514" alt="Parameter Convergence" src="https://github.com/user-attachments/assets/82ec1525-65fe-4866-a0df-e42d9beb9605" />
+
 
 ---
 
 # Error Distribution
 
-![Error Distribution](outputs/error_distribution.png)
+<img width="436" height="533" alt="Error Distribution" src="https://github.com/user-attachments/assets/85f18562-9b67-41bd-9068-69f86c1a6ea0" />
+
 
 ---
 

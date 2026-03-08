@@ -91,7 +91,8 @@ All approaches converge close to the true values.
 
 # Synthetic Data Regression
 
-![Synthetic Regression](outputs/synthetic_regression.png)
+<img width="484" height="532" alt="Synthetic Data Regression" src="https://github.com/user-attachments/assets/5a61dfe2-ce8b-46fb-871d-fbff5ba2bd0d" />
+
 
 ---
 

@@ -1,5 +1,5 @@
-/># Linear Regression with Gradient Descent (MATLAB)
-<img width="1469" height="1068" alt="Figure_2 (1)" src="https://github.com/user-attachments/assets/afb2e34b-3e62-4a18-b78a-892ba9c17dfc" 
+# Linear Regression with Gradient Descent (MATLAB)
+<img width="1469" height="1068" alt="Figure_2 (1)" src="https://github.com/user-attachments/assets/afb2e34b-3e62-4a18-b78a-892ba9c17dfc"/> 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Numerical%20Computing-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-Gradient%20Descent-green)

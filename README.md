@@ -1,15 +1,26 @@
-<img width="1469" height="1068" alt="Figure_2 (1)" src="https://github.com/user-attachments/assets/afb2e34b-3e62-4a18-b78a-892ba9c17dfc" /># Linear Regression with Gradient Descent (MATLAB)
-
+/># Linear Regression with Gradient Descent (MATLAB)
+<img width="1469" height="1068" alt="Figure_2 (1)" src="https://github.com/user-attachments/assets/afb2e34b-3e62-4a18-b78a-892ba9c17dfc" 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Numerical%20Computing-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-Gradient%20Descent-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+🔗 Live Demo:
+https://mustafa0783.github.io/linear-regression-gradient-descent/
 
 A MATLAB project implementing **Linear Regression using Gradient Descent** and comparing **analytic gradients with numerical gradient approximations**.
 
 This project demonstrates how gradient-based optimization converges to optimal parameters and evaluates performance using both **synthetic datasets** and **real housing price data**.
 
 ---
+## Tech Stack
+
+• MATLAB  
+• Machine Learning Algorithms  
+• Gradient Descent Optimization  
+• Data Visualization  
+• Numerical Methods
+
 
 # Project Highlights
 
@@ -225,6 +236,12 @@ Residual plots show no major systematic errors.
 
 ---
 
+## Project Structure
+
+main.m              -> Main script to run the project  
+data/               -> Housing dataset  
+outputs/            -> Generated plots and visualizations  
+
 # How to Run the Project
 
 ### Requirements
@@ -339,12 +356,14 @@ All plots saved to /outputs/ folder
 
 ---
 
-# Author
+## Author
 
-Mustafa Dawood
-BS Computer Science
+**Mustafa Dawood**  
+BS Computer Science  
 Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
 
+GitHub: https://github.com/mustafa0783
+LinkedIn: https://www.linkedin.com/in/mustafadawood121/
 
 # Optional Future Work
 
